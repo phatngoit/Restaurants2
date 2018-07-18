@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width">300dp</dimen>
+    <dimen name="HeightEditText">40dp</dimen>
+    <dimen name="HeightButton">40dp</dimen>
+    <dimen name="widthLandscape">300dp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <corners android:radius="1dp" />
+    <gradient
+        android:startColor="@color/colorCheckbox"
+        android:centerColor="@color/colorCheckbox"
+        android:endColor="@color/colorCheckbox"/>
+    <size
+        android:width="15dp"
+        android:height="15dp" />
+</shape>

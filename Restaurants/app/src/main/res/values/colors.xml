@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c618e2</color>
+    <color name="colorPrimaryDark">#c618e2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorbtLogin">#c000dd</color>
+    <color name="colorbtFacebook">#4b60ff</color>
+    <color name="colorbtGmail">#f31741</color>
+    <color name="colorBorderEditText">#e1e1e1</color>
+    <color name="colorbtSignUp">#fe6e12</color>
+    <color name="colorEditText">#793737</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorbtMenu">#ebebeb</color>
+    <color name="colorStatus">#a15abd</color>
+    <color name="colorBackgroundMenu">#ebebeb</color>
+    <color name="colorBackgroundYourOrder">#992a2a2a</color>
+    <color name="colorButtonPlus">#9f45bf</color>
+    <color name="colorDescription">#adadad</color>
+    <color name="colorCheckbox">#b64ddc</color>
+    <color name="colorLabelOptions">#c618e2</color>
+</resources>

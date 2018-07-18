@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Restaurants2</string>
+    <string name="facebook">Facebook</string>
+    <string name="gmail">Gmail</string>
+    <string name="insert_your_email_and_password">Nhập vào email và mật khẩu của bạn</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register_an_account">Đăng ký tài khoản</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="email_address">Địa chỉ Email</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="register">Đăng ký</string>
+    <string name="or">hoặc</string>
+    <string name="by_registering_an_account_you_accept_all_terms_and_conditions">Bằng cách đăng ký một tài khoản, bạn chấp nhận tất cả các điều khoản và điều kiện</string>
+    <string name="sign_up">Đăng ký</string>
+    <string name="menu">Thực đơn</string>
+    <string name="min_delivery">Giao hàng tối thiểu: </string>
+    <string name="open">Mở</string>
+    <string name="closed">Đóng cửa</string>
+    <string name="ChuaNhapEmail">Email không được trống</string>
+    <string name="ChuaNhapHoTen">Họ Tên không được trống</string>
+    <string name="ChuaNhapMatKhau">Mật khẩu không được trống</string>
+    <string name="ChuaNhapSoDienThoai">Số điện thoại không được trống</string>
+    <string name="EmailKhongHopLe">Email không lợp lệ</string>
+    <string name="Loi">Lỗi</string>
+    <string name="EmailMatKhauKhongDung">Email hoặc mật khẩu không đúng</string>
+    <string name="delivery">Delivery</string>
+    <string name="pickup">Pickup</string>
+    <string name="find_food">Tìm món ăn</string>
+    <string name="enter_your_city_name">Nhập tên thành phố của bạn</string>
+</resources>

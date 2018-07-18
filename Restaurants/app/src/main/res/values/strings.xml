@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Restaurants2</string>
+    <string name="facebook">Facebook</string>
+    <string name="gmail">Gmail</string>
+    <string name="insert_your_email_and_password">Insert your email and password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_an_account">Register an Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="or">or</string>
+    <string name="by_registering_an_account_you_accept_all_terms_and_conditions">By registering an account, you accept all terms and conditions</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="menu">Menu</string>
+    <string name="min_delivery">Min Delivery: </string>
+    <string name="open">Open</string>
+    <string name="closed">Closed</string>
+    <string name="ChuaNhapEmail">Email is not empty</string>
+    <string name="ChuaNhapHoTen">FullName is not empty</string>
+    <string name="ChuaNhapMatKhau">Password is not empty</string>
+    <string name="ChuaNhapSoDienThoai">Phone is not empty</string>
+    <string name="EmailKhongHopLe">Email is not valid</string>
+    <string name="Loi">Error</string>
+    <string name="EmailMatKhauKhongDung">The email or password is incorrect</string>
+    <string name="facebook_app_id">825740567623104</string>
+    <string name="fb_login_protocol_scheme">fb825740567623104</string>
+    <string name="delivery">Delivery</string>
+    <string name="pickup">Pickup</string>
+    <string name="find_food">Find food</string>
+    <string name="enter_your_city_name">Enter your city name</string>
+
+</resources>
