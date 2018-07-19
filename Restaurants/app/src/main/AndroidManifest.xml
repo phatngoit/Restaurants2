@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name=".OrderFinal.OrderFinalActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -46,7 +46,7 @@
                 <data android:scheme="@string/fb_login_protocol_scheme" />
             </intent-filter>
         </activity>
-        <activity android:name=".OrderFinal.OrderFinalActivity"></activity>
+        <!--<activity android:name=".OrderFinal.OrderFinalActivity"></activity>-->
     </application>
 
 </manifest>

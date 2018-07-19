@@ -25,8 +25,18 @@
     <string name="EmailKhongHopLe">Email không lợp lệ</string>
     <string name="Loi">Lỗi</string>
     <string name="EmailMatKhauKhongDung">Email hoặc mật khẩu không đúng</string>
-    <string name="delivery">Delivery</string>
+    <string name="delivery">Vận chuyển</string>
     <string name="pickup">Pickup</string>
     <string name="find_food">Tìm món ăn</string>
     <string name="enter_your_city_name">Nhập tên thành phố của bạn</string>
+    <string name="quantity">Số lượng</string>
+    <string name="name_of_dish">Tên món ăn</string>
+    <string name="price">Giá bán</string>
+    <string name="your_order_is_below">Đơn hàng của bạn dưới đây</string>
+    <string name="total">Tổng cộng:</string>
+    <string name="enter_coupon_if_you_have_any">Nhập phiếu giảm giá nếu có</string>
+    <string name="pay_via">Hình thức thanh toán</string>
+    <string name="credit_card">Thẻ tín dụng</string>
+    <string name="pay_bal">Trả tiền mặt</string>
+    <string name="cash_on_delivery">Thanh toán khi giao hàng</string>
 </resources>

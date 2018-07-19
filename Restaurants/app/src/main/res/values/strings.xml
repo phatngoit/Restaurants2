@@ -31,5 +31,15 @@
     <string name="pickup">Pickup</string>
     <string name="find_food">Find food</string>
     <string name="enter_your_city_name">Enter your city name</string>
+    <string name="quantity">Quantity</string>
+    <string name="name_of_dish">Name of Dish</string>
+    <string name="price">Price</string>
+    <string name="your_order_is_below">Your Order is below</string>
+    <string name="total">Total:</string>
+    <string name="enter_coupon_if_you_have_any">Enter coupon if you have any</string>
+    <string name="pay_via">Pay via</string>
+    <string name="credit_card">Credit card</string>
+    <string name="pay_bal">Pay bal</string>
+    <string name="cash_on_delivery">Cash on Delivery</string>
 
 </resources>

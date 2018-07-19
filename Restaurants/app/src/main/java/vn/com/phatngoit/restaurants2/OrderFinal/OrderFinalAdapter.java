@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import java.util.List;
 
 import vn.com.phatngoit.restaurants2.databinding.ActivityOptionsBinding;
-import vn.com.phatngoit.restaurants2.databinding.ItemOrderFinalBinding;
+//import vn.com.phatngoit.restaurants2.databinding.ItemOrderFinalBinding;
 
 public class OrderFinalAdapter extends RecyclerView.Adapter {
     private List<OrderFinalClass> listOrderFinal;
